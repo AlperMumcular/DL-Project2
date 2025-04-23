@@ -16,7 +16,7 @@ This is the second project for the Deep Learning course at NYU. The objective of
 
 ### Best Scoring Model:
 - Our best scoring model achieved an accuracy of **0.87175**.
-- The model can be found in the folder `model 9 - 6 rank 6 alpha - best model` with the notebook file located at:  
+- The model can be found in the folder `best model - model 9 - 6 rank 6 alpha - 0.87175` with the notebook file located at:  
   `model 9 - 6 rank 6 alpha - best model/0_87175.ipynb`.
 
 ---
