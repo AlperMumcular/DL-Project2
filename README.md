@@ -9,7 +9,7 @@
 New York University
 
 ---
-Note: Jupyter file only exists for models 2, 3, 4, 5, 9 (best model), 13, 16 inside corresponding folder. The other models have only difference what is described in their folder's name. The rest of their code is exactly the similar.
+Note: Jupyter file only exists for models 2, 3, 4, 5, 9 (best model), 13 inside corresponding folder. The other models have only difference what is described in their folder's name. The rest of their code is exactly the similar.
 
 ## Project Overview
 
