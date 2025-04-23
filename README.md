@@ -1,1 +1,33 @@
-# DL-Project2
+# Deep Learning - Project 2
+
+## Team: Deep Fried Learning
+- **Rahil Singhi** (rs9174@nyu.edu)  
+- **Alper Mumcular** (am14533@nyu.edu)  
+- **Divya Srinivasan** (ds7852@nyu.edu)  
+
+### Institution:  
+New York University
+
+---
+
+## Project Overview
+
+This is the second project for the Deep Learning course at NYU. The objective of this project was to fine-tune a RoBERTa-base model using LoRA (Low-Rank Adaptation) under a strict constraint of fewer than 1 million trainable parameters.
+
+### Best Scoring Model:
+- Our best scoring model achieved an accuracy of **0.87175**.
+- The model can be found in the folder `model 9 - 6 rank 6 alpha - best model` with the notebook file located at:  
+  `model 9 - 6 rank 6 alpha - best model/0_87175.ipynb`.
+
+---
+
+## Report:
+- A detailed report for the project can be accessed in the file:  
+  `project_report.pdf`.
+
+---
+
+## Setup & Execution:
+1. Clone this repository.
+2. Upload the notebook `0_87175.ipynb` to Google Colab to view and run the best model.
+3. Upload `test_unlabelled.pkl` to Google Colab. You may run the whole code.
