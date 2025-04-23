@@ -29,5 +29,6 @@ This is the second project for the Deep Learning course at NYU. The objective of
 
 ## Setup & Execution:
 1. Clone this repository.
-2. Upload the notebook `0_87175.ipynb` to Google Colab to view and run the best model.
-3. Upload `test_unlabelled.pkl` to Google Colab. You may run the whole code.
+2. Go inside `model 9 - 6 rank 6 alpha - best model` and find notebook file inside the folder
+3. Upload the notebook to Google Colab to view and run the best model.
+4. Upload `test_unlabelled.pkl` to Google Colab. You may run the whole code. (May ask wandb auth, make sure you authenticate)
