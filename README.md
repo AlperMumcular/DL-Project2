@@ -16,8 +16,8 @@ This is the second project for the Deep Learning course at NYU. The objective of
 
 ### Best Scoring Model:
 - Our best scoring model achieved an accuracy of **0.87175**.
-- The model can be found in the folder `model 9 - 6 rank 6 alpha - best model` with the notebook file located at:  
-  `model 9 - 6 rank 6 alpha - best model/0_87175.ipynb`.
+- The model can be found in the folder `best model - model 9 - 6 rank 6 alpha - 0.87175` with the notebook file located at:  
+  `best model - model 9 - 6 rank 6 alpha - 0.87175/0_87175.ipynb`.
 
 ---
 
@@ -29,6 +29,6 @@ This is the second project for the Deep Learning course at NYU. The objective of
 
 ## Setup & Execution:
 1. Clone this repository.
-2. Go inside `model 9 - 6 rank 6 alpha - best model` and find notebook file inside the folder
+2. Go inside `best model - model 9 - 6 rank 6 alpha - 0.87175` and find notebook file inside the folder
 3. Upload the notebook to Google Colab to view and run the best model.
 4. Upload `test_unlabelled.pkl` to Google Colab. You may run the whole code. (May ask wandb auth, make sure you authenticate)
